@@ -1,0 +1,33 @@
+_repo: Nouvelles-lettres-d-un-voyageur_13198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13198'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Novelists, French -- 19th century -- Correspondence'
+- !lcsh 'Sand, George, 1804-1876 -- Correspondence'
+title: Nouvelles lettres d'un voyageur
+url: http://www.gutenberg.org/ebooks/13198
